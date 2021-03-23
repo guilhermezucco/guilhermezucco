@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @guilhermezucco
 - 👀 I’m interested in AI, mostly machine learning
-- 🌱 I’m currently learning Artificial Neural Network and ML models
+- 🌱 I’m currently learning Artificial Neural Network and ML models in general
+- I'm into learning new stuff, so advices, tips and cool contents are always welcome.
