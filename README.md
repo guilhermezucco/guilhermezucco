@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guilhermezucco
+- 👀 I’m interested in AI, mostly machine learning
+- 🌱 I’m currently learning Artificial Neural Network and ML models
